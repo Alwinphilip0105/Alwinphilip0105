@@ -1,5 +1,5 @@
 <!-- ![MasterHead](https://ou.ac.lk/wp-content/uploads/2021/04/Software-Development.jpg) -->
-<img align="center" alt="head" width="100%" height="200" src="https://ou.ac.lk/wp-content/uploads/2021/04/Software-Development.jpg">
+<!--<img align="center" alt="head" width="100%" height="200" src="https://ou.ac.lk/wp-content/uploads/2021/04/Software-Development.jpg">-->
 <h1 align="center">Hi 👋, I'm Alwin Philip</h1>
 <h3 align="center">Technical enthusiast with analytical abilities, coding, app development, and programming languages . </h3>
 
