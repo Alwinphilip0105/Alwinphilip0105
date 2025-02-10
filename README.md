@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/alwin-philip-student/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alwin-philip-student" height="30" width="40" /></a>
 <a href="https://www.instagram.com/capturing_glimpses" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alwinphilip" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/alwinphilip0105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lensview28" height="30" width="40" /></a>
-<a href="https://deepali.my.canva.site/alwin-portfolio-website" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1162/1162285.png" alt="alwinphilip" height="30" width="40" /></a>  
+<a href="https://alwinphilip0105.github.io/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1162/1162285.png" alt="alwinphilip" height="30" width="40" /></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
